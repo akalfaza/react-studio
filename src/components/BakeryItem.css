@@ -1,0 +1,18 @@
+.BakeryItem{
+    /* border: solid black; */
+    background-color: #f9f9f9;
+    width: 400px;
+    margin: 20px;
+    
+}
+
+.BakeryItem img{
+    width: 400px;
+}
+
+.BakeryItem button{
+    margin-left:300px;
+    border: 1px solid transparent;
+    background-color: #f9f9f9;
+    cursor: pointer;
+}
